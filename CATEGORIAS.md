@@ -1,10 +1,13 @@
-# Categorías iniciales
+# Categorías
 
 ## Ingresos
-- Salario
+- Sueldo mensual
+- Ventas
+- Intereses
 - Freelance
 
 ## Egresos
-- Comida
+- Alimentación
+- Arriendo
+- Entretenimiento
 - Transporte
-- Servicios
